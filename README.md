@@ -13,10 +13,11 @@
 2.TRL
 3FSDA
 
-![My image](/IMG_1289.JPG)
+![My image](/image-pandas.png)
 
 ####header3
 
 '''
 import panda as pd
 ''''
+![First image](/image-pandas-pie.png/)
